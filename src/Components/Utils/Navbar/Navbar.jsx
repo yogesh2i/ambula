@@ -10,7 +10,7 @@ export default function Navbar() {
         <div className="left">Ambula</div>
         <div className="right">
             <ul>
-                <li> <Link to={'/ambula'}>Home</Link></li>
+                <li> <Link to={'/'}>Home</Link></li>
                 <li> <Link to={'/about-us'}>About Us</Link></li>
                 <li> <Link to={'/contact-us'}>Contact Us</Link></li>
                 
