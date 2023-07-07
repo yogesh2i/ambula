@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.1baf9b6d.css",
-    "main.js": "/static/js/main.58fc48ae.js",
-    "index.html": "/index.html",
-    "main.1baf9b6d.css.map": "/static/css/main.1baf9b6d.css.map",
-    "main.58fc48ae.js.map": "/static/js/main.58fc48ae.js.map"
+    "main.css": "/ambula/static/css/main.1baf9b6d.css",
+    "main.js": "/ambula/static/js/main.e0b198cf.js",
+    "index.html": "/ambula/index.html",
+    "main.1baf9b6d.css.map": "/ambula/static/css/main.1baf9b6d.css.map",
+    "main.e0b198cf.js.map": "/ambula/static/js/main.e0b198cf.js.map"
   },
   "entrypoints": [
     "static/css/main.1baf9b6d.css",
-    "static/js/main.58fc48ae.js"
+    "static/js/main.e0b198cf.js"
   ]
 }
