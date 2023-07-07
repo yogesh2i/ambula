@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ambula/static/css/main.1baf9b6d.css",
+    "main.js": "/ambula/static/js/main.58fc48ae.js",
+    "index.html": "/ambula/index.html",
+    "main.1baf9b6d.css.map": "/ambula/static/css/main.1baf9b6d.css.map",
+    "main.58fc48ae.js.map": "/ambula/static/js/main.58fc48ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1baf9b6d.css",
+    "static/js/main.58fc48ae.js"
+  ]
+}
