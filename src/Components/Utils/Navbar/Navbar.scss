@@ -1,0 +1,31 @@
+.nav__container{
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.2rem;
+    padding: 0.5rem;
+    align-items: center;
+    background-color: rgba(223, 221, 221, 0.853);
+    .left{
+       font-size: 2rem;
+       font-weight: bold;
+    }
+    .right{
+        ul{
+            margin-right: 0.3rem;
+            display: flex;
+            list-style: none;
+            gap: 2rem;
+            li{
+                cursor: pointer;
+                a{
+                   text-decoration: none;
+                   color: black; 
+                   &:hover{
+                       color: red;
+                    }
+                }
+            }
+
+        }
+    }
+}
