@@ -5,7 +5,7 @@ import useFetchNews from "../../../../CustomHooks/useFetchNews";
 
 export default function News() {
   const [data] = useFetchNews(
-    "https://gnews.io/api/v4/top-headlines?category=general&country=in&max=9&apikey=9154b979b8352c0d89f56cdc2dd4cd46"
+    "https://gnews.io/api/v4/top-headlines?category=general&country=in&max=9&apikey=a9ab379445766f55422f9af0410feae3"
   );
   //getting data from custom hook
   return (
